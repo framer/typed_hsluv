@@ -1,0 +1,10 @@
+{
+  "name": "@types/hsluv",
+  "version": "0.0.1",
+  "description": "types for hsluv package",
+  "main": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
