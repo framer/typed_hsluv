@@ -30,6 +30,6 @@ declare namespace Hsluv {
 }
 
 declare module 'hsluv' {
-  const hsluv: Hsluv.PublicApi;
-  export = Hsluv.PublicApi;
+  var hsluv: Hsluv.PublicApi;
+  export = hsluv;
 }
